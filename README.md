@@ -64,7 +64,7 @@ IVONA 2 Salli - US English female voice [22kHz]
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.1.1-0.1.7/blob/main/Screenshots/Splash%20Screeen.png
+![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.1.1-0.1.7/blob/main/Screenshots/Splash%20Screeen.png)
 
 **>GUI New Splash Screen**
 
